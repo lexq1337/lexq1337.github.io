@@ -3,7 +3,7 @@
   <a href="kapattık abicim">Discord</a> |
   <a href="https://www.youtube.com/channel/UC5kIzp0BOou6Z98NVYzsuWw">YouTube</a> |
   <a href="https://github.com/lexq1337">Github</a><br><br>
-  <img src="https://repository-images.githubusercontent.com/415421595/c116844b-4471-4865-b26f-88a4ec2ee8cb" style="width: 80%">
+  <img src="https://cdn.discordapp.com/attachments/844096113660526603/969693681575665674/unknown.png" style="width: 80%">
 </p>
 
 ##   
