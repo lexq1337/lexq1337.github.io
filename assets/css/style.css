@@ -178,3 +178,10 @@ section.main ul li a:hover {
         opacity: 1
     }
 }
+
+.button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+}
