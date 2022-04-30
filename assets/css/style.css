@@ -226,3 +226,10 @@ button {
 .btn1:hover::before {
     transform: scaleX(1);
 }
+.btn2::before {
+    transform: scaleY(0);
+}
+
+.btn2:hover::before {
+    transform: scaleY(1);
+}
