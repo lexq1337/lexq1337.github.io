@@ -181,16 +181,16 @@ section.main ul li a:hover {
 
 button {
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
+    top: 10px;
+    left: 10px;
+    transform: translate(900px, 00px) ;
+    text-align: start;
 }
 
 .btn {
     background: none;
-    border: 2px solid #2c3e50;
-    font-size: 14px;
+    border: 2px solid #ff5e00;
+    font-size: 13px;
     font-family: "Tahoma", sans-serif;
     text-transform: uppercase;
     padding: 12px 20px;
@@ -202,7 +202,7 @@ button {
 }
 
 .btn:hover {
-    color: #FFF;
+    color: rgb(255, 255, 255);
 }
 
 .btn::before {
@@ -212,7 +212,7 @@ button {
     top: 0;
     width: 100%;
     height: 100%;
-    background: #2c3e50;
+    background: #00ff22;
     z-index: -1;
     transition: transform 0.5s;
     transform-origin: 0 0;
